@@ -1,5 +1,7 @@
 # E-Commerce-Server Readme
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![](https://i.gyazo.com/28f4016b83b453b58b4648ec9808097b.png)
 ## Description
 Backend for an E-Commerce database with full CRUD capabilities.
 ## Table of Contents
